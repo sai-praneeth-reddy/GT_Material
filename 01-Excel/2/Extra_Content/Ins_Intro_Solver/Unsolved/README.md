@@ -1,0 +1,1 @@
+See solved solution and recreate it using your own thoughts. This is good way to practice psuedocoding.
